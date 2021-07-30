@@ -1,6 +1,6 @@
 # SI-GuidedProject-4644-1626956556
 
-A Gesture Based Tool for Sterile Browsing of Radiology Images
+# A Gesture Based Tool for Sterile Browsing of Radiology Images
 
 PRESENTATION VIDEO LINK:- 
 
